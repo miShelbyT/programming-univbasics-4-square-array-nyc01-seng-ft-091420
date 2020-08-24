@@ -3,7 +3,7 @@ def square_array(array)
   squard_array = []
   while i < array.length do
     i_sq = i**2
-    squard_array << array(i_sq)
+    squard_array << i_sq(array)
     i += 1
   end
   squard_array = []
