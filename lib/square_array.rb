@@ -1,9 +1,8 @@
 def square_array(array)
-  counter = 0
+  i = 0
   squard_array = []
-  while counter < array.length do
-
-    squard_array << e**e[array] += 1
+  while i < array.length do
+    squard_array << i**i[array] += 1
   end
   squard_array = []
 end
