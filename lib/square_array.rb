@@ -1,5 +1,5 @@
 def square_array(array)
-  i = 0
+  i = 1
   squard_array = []
   while i < array.length do
     i_sq = i**i
